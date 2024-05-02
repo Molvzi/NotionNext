@@ -1,11 +1,11 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2022-09-21', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://xiaolv.com' },
+    { title: '欢迎来到我的博客', url: 'https://xiaolv.me' },
     //{ title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],
 
@@ -17,10 +17,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'XIAOLV.COM',
+  HEO_HERO_TITLE_3: 'XIAOLV.ME',
   HEO_HERO_TITLE_4: '上线',
   HEO_HERO_TITLE_5: '小绿',
-  HEO_HERO_TITLE_LINK: 'https://xiaolv.com',
+  HEO_HERO_TITLE_LINK: 'https://xiaolv.me',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '精选', url: '/tag/精选' },
